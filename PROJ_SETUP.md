@@ -63,3 +63,18 @@ git branch -M master
 git remote add origin https://github.com/rubensgomes/rgsite.git
 git push -u origin master
 ```
+
+### Configure GitHub Page
+
+## Configure GitHub Page
+
+* A user GitHub Page is being set up as follows:
+
+1. Created new public repository named "rubensgomes.github.io" to be used to
+   publish this User GitHub Page site: <https://rubensgomes.github.io/vuerg>
+2. A branch 'gh-pages' will be initialized during build (deploy.sh) in order
+   to deploy to GitHub Pages.
+3. Configure the project GitHub 'Settings', under the 'GitHub Pages' to use
+   the branch 'gh-pages'  and the root '/(root)' path folder.
+4. Then, after a successful deployment, you may see the page rendered at 
+   <https://rubensgomes.github.io/rgsite/>

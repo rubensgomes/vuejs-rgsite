@@ -1,6 +1,6 @@
 # Setting Up Project
 
-** Ensure to read and configure [DEV_SETUP](./DEV_SETUP.md) first.
+** Ensure to read and configure [ENV_SETUP](./ENV_SETUP.md) first.
 
 ### Scaffold Project
 

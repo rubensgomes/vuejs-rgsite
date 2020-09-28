@@ -20,9 +20,9 @@ A Progressive Web Site proof of concept that is based on fast development/deploy
 
 ## Miscellaneous
 
-See [DEV_SETUP](DEV_SETUP.md) for development environment set up.
+See [DEV_SETUP](./DEV_SETUP.md) for development environment set up.
 
-See [PROJ_SETUP](PROJ_SETUP.md) for project set up.
+See [PROJ_SETUP](./PROJ_SETUP.md) for project set up.
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 

@@ -1,24 +1,28 @@
 # rgsite
 
-## Project setup
-```
-npm install
-```
+A Progressive Web Site proof of concept that is based on fast development/deployment CI/CD
+(Continuous Integration/Continuous Deployment) principles.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Requirements
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* Fast Development
+* CI/CD
+* Bootstrap UI components
+* Progressive Web App
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Source Code Repository
 
-### Customize configuration
+* GitHub Repository
+
+## Deployment
+
+- GitHub Page
+
+## Miscellaneous
+
+See [DEV_SETUP](./DEV_SETUP.md) for development environment set up.
+
+See [PROJ_SETUP](./PROJ_SETUP.md) for project set up.
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
+

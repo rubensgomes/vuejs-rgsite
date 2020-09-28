@@ -46,4 +46,32 @@ These entries will come handy when configuring virtual hosts during local testin
 127.0.0.1       template.localhost
 ```
 
+### Install NodeJS / NPM Tools
+
+1. Download and install Node 12.18.4 from <https://nodejs.org/en/download/>
+
+Note: Latest NodeJS versions will not work under Win7.
+
+2. Install NPX
+
+```bash
+npm install -g npx
+```
+
+3. Install Gulp
+
+```bash
+npm install -g gulp-cli
+```
+
+4. Install Vue CLI
+
+```bash
+npm install -g @vue/cli
+```
+
+5. Install serve
+
+```bash
+npm install -g serve
 

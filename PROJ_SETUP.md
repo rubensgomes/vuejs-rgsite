@@ -2,36 +2,10 @@
 
 ** Ensure to read and configure [DEV_SETUP](./DEV_SETUP.md) first.
 
-### Install NodeJS
-
-1. Download and install Node 12.18.4 from <https://nodejs.org/en/download/>
-
-Note: Latest NodeJS versions will not work under Win7.
-
-2. Install NPX
-
-```bash
-npm install -g npx
-```
-
-### Install VueJS
-
-1. Install Vue CLI
-
-```bash
-npm install -g @vue/cli
-```
-
-2. Install serve
-
-```bash
-npm install -g serve
-```
-
 ### Scaffold Project
 
 ```bash
-vue create <GIT REPO/PROJ NAME>
+vue create <GIT_PROJ_NAME>
 # select Vue 3
 ```
 
@@ -42,7 +16,7 @@ npm run lint
 npm run build
 ```
 
-### Run/Stop Server
+### Run / Stop Server
 
 1. Start server listening on port 8080
 
@@ -80,5 +54,7 @@ vue info
 git init
 git add -A
 git commit -m 'Initial Commit'
+git push git@github.com:rubensgomes/<GIT_PROJ_NAME>.git
+# GIT_PROJ_NAME is the actual name of this project given to the vue create project command.
 ```
 

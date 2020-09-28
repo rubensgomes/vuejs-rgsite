@@ -5,7 +5,7 @@
 ### Scaffold Project
 
 ```bash
-vue create <GIT_PROJ_NAME>
+vue create rgsite
 # select Vue 3
 ```
 
@@ -50,11 +50,16 @@ vue info
 
 ### Create Git Repository
 
+1. Login to the [GitHub Account](https://github.com/rubensgomes)
+2. Select and click on the [Repositories link](https://github.com/rubensgomes?tab=repositories)
+3. Create a new repository called "rubensgomes/rgsite
+4. Then follow commands below locally
+
 ```bash
 git init
-git add -A
-git commit -m 'Initial Commit'
-git push git@github.com:rubensgomes/<GIT_PROJ_NAME>.git
-# GIT_PROJ_NAME is the actual name of this project given to the vue create project command.
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rubensgomes/rgsite.git
+git push -u origin master
 ```
-

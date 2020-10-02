@@ -64,10 +64,11 @@ npm install -g npx
 npm install -g gulp-cli
 ```
 
-4. Install Vue CLI
+4. Install Vue CLI (@vue/cli @vue/cli-service-global)
 
 ```bash
 npm install -g @vue/cli
+npm install -g @vue/cli @vue/cli-service-global
 ```
 
 5. Install serve

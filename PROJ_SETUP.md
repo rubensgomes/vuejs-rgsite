@@ -1,6 +1,6 @@
 # Setting Up Project
 
-** Ensure to read and configure [ENV_SETUP](./ENV_SETUP.md) first.
+** Ensure to read [ENV_SETUP](./ENV_SETUP.md) first.
 
 ### Scaffold Project
 
@@ -70,8 +70,8 @@ git push -u origin master
 
 * A user GitHub Page is being set up as follows:
 
-1. Created new public repository named "rubensgomes.github.io" to be used to
-   publish this User GitHub Page site: <https://rubensgomes.github.io/vuerg>
+1. Create new public repository named "rubensgomes.github.io" to be used to
+   publish this User GitHub Page site: <https://rubensgomes.github.io/rgsite>
 2. A branch 'gh-pages' will be initialized during build (deploy.sh) in order
    to deploy to GitHub Pages.
 3. Configure the project GitHub 'Settings', under the 'GitHub Pages' to use

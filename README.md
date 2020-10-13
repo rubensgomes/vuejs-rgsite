@@ -1,22 +1,36 @@
 # rgsite
 
-A Progressive Web Site proof of concept that is based on fast development/deployment CI/CD
+A progressive web site that is based on fast development/deployment CI/CD
 (Continuous Integration/Continuous Deployment) principles.
 
 ## Requirements
 
-* Fast Development
+* Progressive Web App
 * CI/CD
 * Bootstrap UI components
-* Progressive Web App
+* VueJS
 
 ## Source Code Repository
 
-* GitHub Repository
+* GitHub Repository: <https://github.com/rubensgomes/rgsite>
 
-## Deployment
+## Build and Deployment
 
-- GitHub Page
+* Build only:
+
+```bash
+npm run lint
+npm run build
+```
+
+* Build and Deploy:
+
+```bash
+./deploy.sh
+```
+
+* The application is deployed to the 
+GitHub Page: <https://rubensgomes.github.io/rgsite/>
 
 ## Miscellaneous
 

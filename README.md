@@ -1,7 +1,4 @@
-# rgsite
-
-A progressive web site that is based on fast development/deployment CI/CD
-(Continuous Integration/Continuous Deployment) principles.
+This project is a playground web app site using [VueJS 3](https://v3.vuejs.org/) and [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/).  One of the goals of this project is to use CI/CD.
 
 ## Requirements
 
@@ -9,6 +6,16 @@ A progressive web site that is based on fast development/deployment CI/CD
 * CI/CD
 * Bootstrap UI components
 * VueJS
+
+## Potential Technologies
+
+* Node.JS <https://nodejs.org/en/>
+* KrakenJS <http://krakenjs.com/>
+* Express.JS <https://expressjs.com/>
+* Grunt Task Runner <https://gruntjs.com/>
+* MongoDB <https://www.mongodb.com/>
+* VueJS 3 <https://v3.vuejs.org/>
+* Bootstrap 5 <https://getbootstrap.com/>
 
 ## Source Code Repository
 
